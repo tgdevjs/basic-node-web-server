@@ -1,0 +1,8 @@
+# node.js
+node_modules/
+
+#config
+config/
+
+#log
+server.log
